@@ -1,0 +1,109 @@
+Run Ant Colony System #1
+Final best solution >> No. of used vehicles=4 total tours length=142.5509331584846 (scalled value = 1368.4889583214522)
+0 91 92 65 83 63 85 33 28 26 27 29 30 62 67 71 96 81 90 99 57 86 87 9 10 97 59 74 13 17 60 100 70 0 
+0 12 14 47 98 69 23 19 76 51 18 48 21 22 84 49 20 56 66 95 50 32 31 34 89 24 25 77 75 58 82 0 
+0 42 36 37 39 1 3 45 5 44 61 41 38 40 43 35 72 54 93 94 80 0 
+0 64 52 16 15 11 73 88 53 78 79 7 8 6 46 4 2 55 68 0 
+
+Total number of evaluations: 6823
+Added nodes=100
+The final solution is valid (feasible)..
+
+Run Ant Colony System #2
+Final best solution >> No. of used vehicles=4 total tours length=138.46478355438478 (scalled value = 1329.261922122094)
+0 65 91 92 95 85 63 33 28 26 27 29 31 34 30 62 50 67 71 96 81 90 6 7 8 46 5 4 55 68 0 
+0 12 14 47 15 11 16 73 79 78 53 99 86 87 9 10 97 59 74 13 17 60 100 70 0 
+0 42 36 39 1 3 45 2 69 98 88 61 44 38 40 41 37 43 35 72 54 93 94 80 0 
+0 83 64 19 23 21 48 51 76 18 22 52 57 84 49 20 56 66 32 89 24 25 77 75 58 82 0 
+
+Total number of evaluations: 13456
+Added nodes=100
+The final solution is valid (feasible)..
+
+Run Ant Colony System #3
+Final best solution >> No. of used vehicles=4 total tours length=148.55041601281462 (scalled value = 1426.0839937230203)
+0 65 91 92 95 85 63 33 28 26 27 29 31 34 30 62 67 50 71 38 40 41 81 90 68 54 72 43 35 96 93 94 80 0 
+0 98 14 12 47 15 11 83 64 19 23 48 18 21 22 57 99 86 87 9 97 10 17 13 74 52 0 
+0 42 36 37 39 1 45 2 69 44 61 88 73 16 53 78 79 7 8 6 46 5 3 4 60 55 100 70 0 
+0 76 51 84 49 20 66 56 32 89 24 25 77 58 75 59 82 0 
+
+Total number of evaluations: 20649
+Added nodes=100
+The final solution is valid (feasible)..
+
+Run Ant Colony System #4
+Final best solution >> No. of used vehicles=4 total tours length=152.83897282463576 (scalled value = 1467.2541391165032)
+0 91 92 65 83 63 85 33 28 27 29 62 64 23 21 48 19 76 51 18 49 22 57 20 56 66 24 25 77 58 52 82 0 
+0 12 14 47 69 98 11 15 16 73 7 79 78 53 99 86 87 9 10 59 97 75 74 13 17 60 100 70 0 
+0 2 45 5 3 1 42 36 37 39 44 72 71 67 50 30 26 31 34 84 95 94 96 54 43 35 32 89 93 80 0 
+0 88 61 38 40 41 81 90 8 6 46 4 55 68 0 
+
+Total number of evaluations: 27776
+Added nodes=100
+The final solution is valid (feasible)..
+
+Run Ant Colony System #5
+Final best solution >> No. of used vehicles=4 total tours length=149.57227840757426 (scalled value = 1435.893872712713)
+0 92 95 85 63 33 26 27 28 29 31 62 67 50 30 34 84 22 18 49 20 56 66 91 32 89 24 25 77 58 0 
+0 12 14 47 15 11 82 69 98 88 16 73 79 78 53 90 81 54 72 43 35 37 93 94 80 0 
+0 65 42 36 39 45 1 44 38 61 96 71 41 40 2 6 8 46 5 3 7 4 55 68 0 
+0 64 19 23 21 48 76 51 83 99 52 57 86 87 9 10 59 97 75 74 13 17 60 100 70 0 
+
+Total number of evaluations: 34586
+Added nodes=100
+The final solution is valid (feasible)..
+
+Run Ant Colony System #6
+Final best solution >> No. of used vehicles=4 total tours length=146.35336884866325 (scalled value = 1404.9923409471671)
+0 65 91 92 95 85 63 33 28 26 27 29 31 62 64 19 23 21 48 18 76 51 84 22 49 20 56 66 32 89 24 25 77 58 83 0 
+0 12 14 47 15 11 98 69 88 73 16 99 82 53 78 79 7 8 6 46 5 3 4 2 55 68 0 
+0 42 36 37 39 45 1 44 50 30 34 72 38 40 41 43 35 54 93 96 80 0 
+0 61 71 67 94 81 90 52 57 86 87 9 10 59 97 75 74 13 17 60 100 70 0 
+
+Total number of evaluations: 42261
+Added nodes=100
+The final solution is valid (feasible)..
+
+Run Ant Colony System #7
+Final best solution >> No. of used vehicles=4 total tours length=141.95932816629994 (scalled value = 1362.8095503964794)
+0 65 91 92 95 85 63 33 28 26 27 29 31 34 30 62 50 67 90 82 99 52 57 86 87 9 10 59 97 75 74 13 17 60 100 70 0 
+0 12 14 47 98 69 23 21 48 19 76 51 18 22 49 84 20 56 66 32 89 24 25 77 58 0 
+0 42 36 37 39 45 5 3 1 44 38 71 96 81 61 41 40 43 35 72 54 93 94 80 0 
+0 64 83 16 15 11 73 88 53 78 79 7 6 8 46 4 2 55 68 0 
+
+Total number of evaluations: 49520
+Added nodes=100
+The final solution is valid (feasible)..
+
+Run Ant Colony System #8
+Final best solution >> No. of used vehicles=4 total tours length=145.17565187539876 (scalled value = 1393.686258003828)
+0 65 91 92 95 85 63 33 28 26 27 29 31 34 62 67 50 30 94 81 41 40 43 35 54 93 80 0 
+0 12 14 47 69 98 82 11 15 16 73 88 2 8 7 79 78 53 6 46 4 55 68 0 
+0 42 36 37 39 45 5 3 1 44 38 72 71 96 61 90 99 86 87 9 10 59 97 75 74 13 17 60 100 70 0 
+0 64 19 23 21 48 18 76 51 84 83 52 57 22 49 20 56 66 32 89 24 25 77 58 0 
+
+Total number of evaluations: 57770
+Added nodes=100
+The final solution is valid (feasible)..
+
+Run Ant Colony System #9
+Final best solution >> No. of used vehicles=4 total tours length=141.74698193594045 (scalled value = 1360.7710265850283)
+0 65 91 92 95 85 63 33 28 26 27 29 50 62 67 34 30 31 72 41 40 43 35 54 96 93 94 80 0 
+0 12 14 47 15 11 82 69 88 2 73 16 53 78 79 7 6 8 46 4 55 68 70 100 0 
+0 42 36 37 39 45 5 3 1 44 38 71 61 81 90 99 52 86 87 9 10 97 59 74 13 17 60 98 0 
+0 83 64 19 23 21 48 18 76 51 84 57 22 49 20 56 66 32 89 24 25 77 75 58 0 
+
+Total number of evaluations: 65169
+Added nodes=100
+The final solution is valid (feasible)..
+
+Run Ant Colony System #10
+Final best solution >> No. of used vehicles=4 total tours length=141.45017584272125 (scalled value = 1357.921688090124)
+0 65 92 95 63 33 26 28 27 29 31 62 64 19 23 21 48 18 22 57 99 86 87 9 10 97 59 74 13 17 60 100 70 0 
+0 12 14 7 98 69 82 11 47 15 16 73 88 61 41 40 43 35 54 93 96 80 0 
+0 2 45 5 3 1 42 39 36 37 44 38 72 71 81 90 53 78 79 8 6 46 4 55 68 0 
+0 94 67 50 30 34 85 76 51 84 49 20 83 66 91 56 32 89 24 25 77 75 58 52 0 
+
+Total number of evaluations: 73213
+Added nodes=100
+The final solution is valid (feasible)..
